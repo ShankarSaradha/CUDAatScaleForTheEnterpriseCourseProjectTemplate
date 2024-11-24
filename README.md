@@ -6,7 +6,7 @@ This is project for course CUDA at Scale for the Enterprise.
 
 This program is intended to create simple biqubic binary MIP-maps for the images.
 
-![](MIP_example.png)
+![](output.webp)
 
 ## How to run
 
